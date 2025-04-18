@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Octane-Security/public-schemas/refs/heads/main/octanerc.json",
+    "pathsToAnalyze": [
+        "**/baby_bank/**",
+        "**/BoringVault.sol",
+        "**/ManagerWithMerkleVerification.sol",
+        "**/AccountantWithRateProviders.sol",
+        "**/TellerWithMultiAssetSupport.sol",
+        "**/AtomicQueue.sol"
+    ]
+}
